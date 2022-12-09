@@ -14,7 +14,7 @@ module Swapi
 
     def get_all(type)
       get type
-    end
+     end
 
     def get_planet(planet_id)
       get PLANETS, planet_id

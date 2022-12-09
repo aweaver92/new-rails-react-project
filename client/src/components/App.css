@@ -1,0 +1,153 @@
+html {
+  background-color: #282c34;
+  /* background-image: url("bg.jpg"); */
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3em;
+  font-weight: 800;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  font: white;
+  font-size: 2em;
+  font-weight: 600;
+}
+
+h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.2em;
+}
+
+img {
+  padding-top: 4px;
+}
+
+.clear {
+  clear: both;
+}
+
+.personInfo {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2em;
+  font-weight: 600;
+  background-color: whitesmoke;
+  float: left;
+  border: 4px solid black;
+  padding: 20px;
+  font-size: .75em;
+  margin: 0 50px 0 20%;
+}
+
+.main-container {
+  width: 1600px;
+  margin-left: 10%;
+  margin-right: 10%;
+  align-content: center;
+}
+
+.name-title-container {
+  background-color: #ffffff;
+  border: solid 4px black;
+  padding: 10px;
+}
+
+.personCard {
+  height: auto;
+}
+
+
+.personImage {
+  width: 300px;
+  height: auto;
+  float: left;
+  border: 4px solid #000000;
+  margin: 2px;
+  padding: 4px;
+  background: #00b9e6;
+}
+
+.navBar {
+  float: left;
+  margin: 0 auto;
+  color: white;
+  text-align: left;
+  clear: both;
+  width: 50%;
+}
+
+.navleft {
+  text-align: left;
+  color: white;
+  width: 25%;
+}
+.navright {
+  text-align: right;
+  color: white;
+  width: 25%;
+}
+
+.navleft a{
+  color: #1ad2cf;
+}
+.navright a {
+  color: #1ad2cf;
+}
+
+.likebtn{
+  background-color: white;
+  border: 2px solid navy;
+}
+.likebtn:hover {
+  background-color: transparent;
+  border: 2px solid rgb(0, 0, 197);
+}
+
+.recs {
+  color: #ffffff;
+  float: left;
+  text-align: center;
+  margin: 0 0 0 50px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
