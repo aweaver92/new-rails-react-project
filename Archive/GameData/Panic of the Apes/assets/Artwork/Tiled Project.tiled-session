@@ -1,0 +1,219 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso 32x32.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso 32x32.tsx.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso Map 1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1032.3333333333333,
+                "y": 278.6666666666667
+            }
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso Map 1.tmx#Iso 32x32": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso Map 1.tmx#Two-Tiles-High": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/iso tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/iso tiles.tsx.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Iso 32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Test/Iso Map 1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 986.3333333333333,
+                "y": 292.6666666666667
+            }
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Test/Iso Map 1.tmx#Two-Tiles-High": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/iso tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx": {
+            "scale": 0.5830810546874999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1024.7288866557803,
+                "y": 583.9668383368924
+            }
+        },
+        "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx#Two-Tiles-High": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/Iso 32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/iso tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/Art/Iso 32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/Art/Iso Map 1.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 980.75,
+                "y": 271.25
+            }
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/Art/Iso Map 1.tmx#Two-Tiles-High": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/Art/iso tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/Iso 32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 952.1666666666666,
+                "y": 269.3333333333333
+            }
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx#Two-Tiles-High": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 2.tmx": {
+            "scale": 0.5830810546874999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1024.7288866557803,
+                "y": 166.35766026043632
+            }
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 2.tmx#Iso 32x32": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 2.tmx#Two-Tiles-High": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Isometric Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Iso 32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/iso tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Adam/Panic of the Apes/Assets/iso tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "H:/Users/adamweaver/Documents/Aseprite/Iso 32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "H:/Users/adamweaver/Documents/Aseprite/Two-Tiles-High.tsx": {
+            "scaleInDock": 1
+        },
+        "H:/Users/adamweaver/Documents/Aseprite/iso tiles.tsx": {
+            "scaleInEditor": 1
+        },
+        "H:/Users/adamweaver/Documents/Iso Map Test.tmx": {
+            "scale": 1.6014,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 991.0078681153991,
+                "y": 219.80766829024606
+            }
+        },
+        "Iso 32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Iso Map 1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1037.6666666666665,
+                "y": 258.6666666666667
+            }
+        },
+        "Iso Map 1.tmx#Iso 32x32": {
+            "scaleInDock": 1
+        },
+        "Iso Map 1.tmx#Two-Tiles-High": {
+            "scaleInDock": 1
+        },
+        "iso tiles.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import",
+    "last.imagePath": "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import",
+    "map.height": 64,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.width": 64,
+    "openFiles": [
+        "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx"
+    ],
+    "project": "Tiled Project.tiled-project",
+    "recentFiles": [
+        "C:/Users/Adam/My project (1)/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx",
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 1.tmx",
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Iso Map 2.tmx",
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/32x32.tsx",
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso 32x32.tsx.tsx",
+        "C:/Users/Adam/Panic of the Apes/Assets/SuperTiled2Unity/Import/Isometric Tileset.tsx",
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Import/Iso Map 1.tmx",
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/iso tiles.tsx",
+        "C:/Users/Adam/Panic of the Apes/Assets/Art/Iso Map 1.tmx",
+        "C:/Users/Adam/Documents/Aseprite/Tilesets/Tiled/Aseprite/Test/Iso Map 1.tmx",
+        "Iso Map 1.tmx",
+        "Iso 32x32.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
